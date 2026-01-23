@@ -7,7 +7,7 @@
 在线工具网址：[https://see-tool.com/base-converter](https://see-tool.com/base-converter)
 
 工具截图：
-![在这里插入图片描述](Snipaste_2026-01-23_19-03-32.png.png)
+![在这里插入图片描述](Snipaste_2026-01-23_19-03-32.png)
 
 
 ## 1. 核心思路：找个“老实人”做中转
